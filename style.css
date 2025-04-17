@@ -21,7 +21,7 @@ body {
   max-width: 500px;
   margin: 50px auto;
   padding: 20px;
-  background-color: #ffffff;
+  background-color: #4e4b4b;
   border-radius: 10px;
   box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
 }
@@ -48,7 +48,7 @@ nav ul li {
 
 nav ul li a {
   display: block;
-  background-color: #b32f2f;
+  background-color: #00000091;
   color: white;
   text-decoration: none;
   padding: 12px;
