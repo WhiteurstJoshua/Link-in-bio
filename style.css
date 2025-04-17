@@ -67,7 +67,7 @@ nav ul li a {
   display: block;
   background-color: #00000091;
   color: white;
-  text-decoration: none;
+  text-decoration: underline;
   padding: 24px;
   border-radius: 12px;
   font-weight: bold;
